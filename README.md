@@ -20,7 +20,7 @@ This application is proposed for providing Mathematical related HTML format file
   After clone Project then Create Virtual environment
   
   ```
-      python3 -m pip install --user virtualenv
+      python3 -m pip install --sympy virtualenv
       
   ```
   Activate Virtual Environment
